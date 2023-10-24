@@ -1,0 +1,3 @@
+[submodule "React/finance-app"]
+	path = React/finance-app
+	url = ./React/finance-app
